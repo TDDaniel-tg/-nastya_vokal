@@ -1,0 +1,20 @@
+{
+  "name": "anastasia-portok-vocal-school",
+  "version": "1.0.0",
+  "description": "Лендинги для школы вокала Анастасии Порток",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "vocal",
+    "school",
+    "landing",
+    "voice",
+    "test",
+    "networking"
+  ],
+  "author": "Anastasia Portok Vocal School",
+  "license": "ISC"
+} 
